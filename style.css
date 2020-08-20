@@ -1,0 +1,11 @@
+    /* 　　*=全部　　 */
+    *{
+      font-size: 60px;  
+  }
+  /* 　　↓　# = id　　 */
+  #foo {
+      color: red;
+  }
+  #bar {
+      color: blue;
+  }
